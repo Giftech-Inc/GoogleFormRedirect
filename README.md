@@ -1,0 +1,2 @@
+# GoogleFormRedirect
+Googleフォームを好きなデザインにして、回答後、好きなページにリダイレクトする
