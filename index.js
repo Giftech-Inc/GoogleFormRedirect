@@ -1,5 +1,6 @@
 $(document).ready(function () {
   $('#form').submit(function (event) {
+    console.log('あいうえお');
     var formData = $('#form').serialize();
     $.ajax({
       url: 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSef15TyZhHGLiO91Uu1vHXMb0O44NrOjy_j6tPL_XkKglvzKQ/formResponse',
